@@ -1,0 +1,1 @@
+apt-get update && sudo apt-get install -y php php-cli php-curl php-gd php-intl php-mbstring php-mysql php-xml php-zip mysql-server mysql-client default-jre default-jdk apache2 && sudo a2enmod php7.4 && sudo service apache2 restart
